@@ -44,8 +44,11 @@ Phase-based
  - generation
  - evaluation
  - CAD model creation
- - iterative
-6 Preliminary design calculations
+ - selection/refinement
+6 Preliminary design
+ - calculations
+ - part selection
+ - material selection
 7 Motor selection: calculations & CAD integration
 8 Analysis, design calculations and detail design
 9 Analysis, design calculations and detail design
