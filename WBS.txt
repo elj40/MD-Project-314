@@ -1,0 +1,68 @@
+Work Breakdown Structure - Scratch
+
+This is just to brainstorm the structure
+
+Deliverable-based
+
+Frame
+ - Calcs?
+ - connections between subsystems
+ - material/part selection
+ - Presentation
+Arms
+ - Physical arms (materials, geometries)
+ - Extension system
+ - Guiding mechanism
+ - Motor selection
+ - Presentation
+Elevation
+ - Material selection
+ - Elevation system
+ - Guiding mechanism
+ - Motor selection
+ - Presentation
+Wheels
+ - Motor selection
+ - Drive system
+ - Actuation system
+ - Material selection
+ - Connection with rails
+ - Gearbox analysis?
+ - Presentation
+
+
+Phase-based
+
+2 Project planning and stakeholder requirements
+ - Code of conduct
+ - Stakeholder requirements
+ - PDS
+ - WBS
+ - Gantt chart
+4 Concept generation
+ - research
+ - generation
+ - evaluation
+ - CAD model creation
+ - iterative
+6 Preliminary design calculations
+7 Motor selection: calculations & CAD integration
+8 Analysis, design calculations and detail design
+9 Analysis, design calculations and detail design
+10 Final CAD model and drawings
+11 Calculation documentation
+12 Presentation slides
+
+
+
+
+
+Product design specifications and project planning
+
+
+Concept selection
+ - Concept research
+ - Concept generation
+ - Concept evalutaion
+
+Drawing pack
