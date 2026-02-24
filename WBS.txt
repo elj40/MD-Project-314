@@ -5,31 +5,25 @@ automated storage and retrieval system (ASRS)
 
 Deliverable-based (nope)
 
-Frame
- - Calcs?
- - connections between subsystems
- - material/part selection
- - Presentation
-Arms
- - Physical arms (materials, geometries)
- - Extension system
- - Guiding mechanism
- - Motor selection
- - Presentation
-Elevation
- - Material selection
- - Elevation system
- - Guiding mechanism
- - Motor selection
- - Presentation
-Wheels
- - Motor selection
- - Drive system
- - Actuation system
- - Material selection
- - Connection with rails
- - Gearbox analysis?
- - Presentation
+All
+ - Concept Generation and Selection
+ - Material/Part Selection
+ - Calculation Docs
+ - Presentation of Subsystem 
+
+Frame - Benjamin
+ - Concept: Integration of Subsystems
+ - Concept: Connection types/design
+Extension (y-axis) - Eli
+ - Concept: actuation system
+ - Concept: pallet interface (arms) 
+Elevation (z-axis) - Sarah
+ - Concept: actuation system
+ - Concept: guiding mechanism
+Translation (x-axis) - Stacey
+ - Concept: actuation system
+ - Concept: rail/ground interface
+ - Concept: shaft design
 
 
 Phase-based (yes)
