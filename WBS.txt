@@ -1,0 +1,67 @@
+Work Breakdown Structure - Scratch
+
+This is just to brainstorm the structure
+automated storage and retrieval system (ASRS)
+
+Deliverable-based (nope)
+
+All
+ - Concept Generation and Selection
+ - Material/Part Selection
+ - Calculation Docs
+ - Presentation of Subsystem 
+
+Frame - Benjamin
+ - Concept: Integration of Subsystems
+ - Concept: Connection types/design
+Extension (y-axis) - Eli
+ - Concept: actuation system
+ - Concept: pallet interface (arms) 
+Elevation (z-axis) - Sarah
+ - Concept: actuation system
+ - Concept: guiding mechanism
+Translation (x-axis) - Stacey
+ - Concept: actuation system
+ - Concept: rail/ground interface
+ - Concept: shaft design
+
+
+Phase-based (yes)
+
+2 Project planning and stakeholder requirements
+ - Code Of Conduct
+ - Stakeholder requirements
+ - Product Design Specifications
+ - Work Breakdown Structure
+ - Gantt Chart
+4 Concept generation
+ - Research
+ - Generation
+ - Simple CAD Models
+ - Selection And Refinement
+6 Preliminary design
+ - Calculations
+ - Part/Material Selection
+ - Drive System Selection
+ - CAD Prototypes
+10 Final design
+ - Design Choices Documentation
+ - Final CAD Models And Drawings
+ - Calculation Documentation
+12 Presentation
+ - Final Design Document
+ - Presentation Slides
+ - Presentation Oral
+
+
+
+
+Product design specifications and project planning
+
+
+Concept selection
+ - Concept research
+ - Concept generation
+ - Concept evalutaion
+
+Drawing pack
